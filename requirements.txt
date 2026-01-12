@@ -1,0 +1,43 @@
+# Core Web Framework
+streamlit==1.31.0
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# AI/ML - Transformers
+transformers==4.37.2
+torch==2.2.0
+sentencepiece==0.1.99
+
+# NLP & RAG
+langchain==0.1.5
+langchain-community==0.0.17
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# Data Collection
+requests==2.31.0
+beautifulsoup4==4.12.3
+sec-api==1.0.17
+newsapi-python==0.2.7
+
+# Database
+sqlalchemy==2.0.25
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.1
+pydantic==2.5.3
+
+# PDF Processing (for 10-K filings)
+pypdf==4.0.1
+pdfplumber==0.10.3
+
+# HTTP & API
+httpx==0.26.0
+aiohttp==3.9.1
