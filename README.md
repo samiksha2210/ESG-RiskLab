@@ -111,21 +111,6 @@ streamlit run app.py
 
 Access the platform via your browser to begin ESG analysis.
 
-📂 Project Structure
-ESG-Intelligence-and-Risk-Platform/
-│
-├── app.py                 # Main Streamlit application
-│
-├── src/
-│   ├── ai_models/          # Sentiment analysis, summarization, RAG
-│   ├── data_collection/   # SEC & NewsAPI scrapers
-│   ├── database/          # SQLite & ChromaDB utilities
-│   ├── analytics/         # ESG metrics & visualizations
-│
-├── data/                  # PDFs, embeddings, local databases
-├── requirements.txt
-├── .env.example
-└── README.md
 
 🎯 Use Cases
 
@@ -136,4 +121,5 @@ Regulators – Monitor disclosure consistency and compliance
 Analysts – Perform sector-level ESG benchmarking
 
 Researchers – Study ESG sentiment and narrative divergence
+
 
